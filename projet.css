@@ -1,0 +1,257 @@
+#header1{
+    height: 550px;width: 100%;position: absolute;top: 50px;
+    background-image: url(leadspace.jpg);box-shadow: 5px 5px 5px
+}
+#header2{
+    height: 550px;width: 100%;position: absolute;top: 50px;background-color: blue;
+}
+#header3{
+    height: 550px;width: 100%;position: absolute;top: 50px;
+    background-image: url(reseau.jpg);box-shadow: 5px 5px 5px;background-size: cover;
+}
+.mezen1{
+    position: fixed;top: 0px;height: 50px;width: 100%;background-color: white ;border-bottom: 1px solid gray;opacity: 1;z-index: 999;
+}
+
+logo{
+    border-right: 1px solid rgba(0, 0, 0, 0.4);position: absolute;left: 0px;height: 50px;width: 125px;background-color: white;
+    height: 25px;top: 10px;
+}
+.aa{
+    position: absolute;top: -20px;left: 301px;font-size: 18px;
+    font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji';
+    height: 50px;width: 120px;
+}
+.bb{
+    position: absolute;top: -19px;left: 662px;font-size: 18px;
+    font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji';
+    height: 50px;width: 120px;
+}
+.cc{
+    position: absolute;top: -20px;left: 180px;font-size: 18px;
+    font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji';
+    height: 50px;width: 120px;
+}
+.zz{
+    position: absolute;top: -20px;left: 422px;font-size: 18px;
+    font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji';
+    height: 50px;width: 120px;
+}
+.rr{
+    position: absolute;top: -20px;left: 542px;font-size: 18px;
+    font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji';
+    height: 50px;width: 120px;
+}
+a{
+    text-decoration: none;color: rgba(0, 0, 0, 0.7);
+}
+#ss{
+    height: 67px;position: absolute;top: -27px;left: 11px;width: 100px;
+}
+body{
+    position: relative;left: 0px;top: -5px;background-color: white;
+}
+.bbb{
+    position: absolute;left: 16px;text-decoration: none;color: rgba(0, 0, 0, 0.7);position: absolute;top: -2px;padding: 16px;
+}
+.aaa{
+    text-decoration: none;color: rgba(0, 0, 0, 0.7);position: absolute;top: 6px;left: 0px;padding: 8px;
+}
+.ccc{
+    text-decoration: none;color: rgba(0, 0, 0, 0.7);position: absolute;top: -2px;left: 20px;padding: 16px;
+}
+.zzz{
+    text-decoration: none;color: rgba(0, 0, 0, 0.7);position: absolute;top: -4px;left: 27px;padding: 8px;
+}
+.rrr{
+    text-decoration: none;color: rgba(0, 0, 0, 0.7);position: absolute;top: 6px;left: 13px;padding: 8px;
+}
+.aa:hover{
+    background-color: lightgray;
+}
+.bb:hover{
+    background-color: lightgray;
+}
+.cc:hover{
+    background-color: lightgray;
+}
+.zz:hover{
+    background-color: lightgray;
+}
+.rr:hover{
+    background-color: lightgray;
+}
+.p1{
+    color: white;font-size: 60px;font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    position: absolute;left: 0px;top: -60px;width: 1200px;height: 470px;
+    background-image: linear-gradient(to right,
+    rgba(0,0,0,1) 20%,
+    rgba(0,0,0,.7),
+    rgba(0,0,0,0) 100%);
+    padding: 40px;
+}
+.p2{
+    color: white;font-size: 25px;font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    position: absolute;left: 45px;top: 360px;width: 100%px;height: 100%;
+}
+.p3{
+    color: white;font-size: 60px;font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    position: absolute;left: 0px;top: -60px;width: 1200px;height: 470px;
+    background-image: linear-gradient(to right,
+    rgba(0,0,0,1) 20%,
+    rgba(0,0,0,0.7),
+    rgba(0,0,0,0) 100%);
+    padding: 40px;
+}
+nav{
+    height: 800px;width: 400px;font-size: 17px;
+    font-family:'Yu Gothic Light', 'Arial Narrow', Arial, sans-serif;height: 1000px;width: 100%;position: absolute;left: 0px;top: 680px
+}
+div{
+    height: 400px;width: 650px;position: absolute;right: 400px;top: 620px;font-size: 17px;
+    font-family:'Yu Gothic Light', 'Arial Narrow', Arial, sans-serif;
+}
+.m1{
+    font-size: 50px;font-family:'Yu Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.m5{
+    font-size: 50px;font-family:'Yu Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+hr{
+    width: 1040px;
+}
+.m8{
+    font-size: 50px;font-family:'Yu Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.m11{
+    font-size: 50px;font-family:'Yu Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.m20{
+    font-size: 50px;font-family:'Yu Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.m23{
+    font-size: 50px;font-family:'Yu Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.m25{
+    font-size: 50px;font-family:'Yu Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#support{
+    height: 400px;width: 100%;position: absolute;top: 10800px;background-color: #0D0D0D;
+}
+section{
+    width: 100%;height: 100%;
+}
+li{
+    margin: 40px;
+}
+.nav11{
+    list-style-type: none;position: relative;left: -64px;border-left: 4px solid lightgray;margin: 20px;width: 100%;
+}
+.nav11:hover{
+    border-left: solid 4px gray;
+}
+.nav22{
+    position: relative;left: 12px;color: rgba(0, 0, 0, 0.6);color: gray;
+}
+.nav22:hover{
+    color: black;
+}
+.ul1{
+    margin: 10px;border-left: 4px solid lightgray;
+}
+.nav11:active{
+    border-left:solid 4px blue;
+}
+#sss{
+    height: 180px;width: 200px;position: absolute;top: 10px;left: 30px;
+}
+#social{
+    position: absolute;left: 415px;top: 90px;height: 0px;
+}
+.sm{
+    color: white;position: absolute;right: 930px;top: 90px;font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.bref{
+    color: lightgray;position: relative;left: 405px;top: 120px;font-family:'Yu Gothic Light', 'Arial Narrow', Arial, sans-serif;font-size: 15px;
+}
+.bfff{
+    margin: 0px;
+}
+.bff{
+    margin: 0px;position: relative;top: -1px;
+}
+.bref:hover{
+    text-decoration: underline;color: white;
+}
+iframe{
+    height: 1000px;width: 100%;position: absolute;left: 0px;top: 700px;font-size: 17px;display: flex;scroll-snap-align: start;
+}
+html{
+    scroll-behavior: smooth;
+}
+.smm{
+    list-style-type: none;
+}
+.aaaa{
+    position: absolute;top: 14px;left: 10px;
+}
+#support2{
+    height: 400px;width: 100%;position: absolute;top: 1000px;background-color:#0D0D0D;
+}
+#arrow{
+    opacity: 1;z-index: 998;position: absolute;top: 450px;left: 200px;width: 50px;height: 50px;
+}
+#support3{
+    height: 400px;width: 100%;position: absolute;top: 6200px;background-color: #0D0D0D;
+}
+#form{
+    position: absolute;top: 100px;
+}
+fieldset{
+    width: 500px;height: 400px;position: absolute;left: 100px;border-radius: 10px;border: solid 1px gray;
+    font-family: 'Yu Gothic medium', 'Arial Narrow', Arial, sans-serif;z-index: 998;color: white;
+}
+.spiw{
+    position: absolute;left: 225px;
+}
+button{
+    position: relative;top: 100px;left: -135px;border-radius: 20px;background: linear-gradient(gray,black);color: white;
+    font-family: 'Yu Gothic medium', 'Arial Narrow', Arial, sans-serif;
+}
+.r1{
+    position: relative;left: 90px;
+}
+.r2{
+    position: relative;left: 174px;
+}
+.r3{
+    position: relative;left: 166px;
+}
+.r7{
+    position: relative;left: 174px;
+}
+.r4{
+    position: relative;left: 174px;
+}
+.r5{
+    position: relative;left: 160px;
+}
+.r6{
+    position: relative;left: 142px;
+}
+.r8{
+    position: relative;left: 115px;top: -36px;
+}
+.r9{
+    position: relative;left: 119px;
+}
+input{
+    border: solid gray 1px;border-radius: 7px;
+}
+textarea{
+    border: 1px solid gray;border-radius: 7px;
+}
+body {
+    margin: 0;
+    padding: 0;
+  }
